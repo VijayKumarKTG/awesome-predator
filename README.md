@@ -7,7 +7,6 @@ This is a list of awesome resources about Predator.
 ## Contents
 
 - [Docs](#docs)
-- [Plugins](#plugins)
 - [Tutorials](#tutorials)
 - [Community](#community)
 
